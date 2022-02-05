@@ -5,9 +5,9 @@
 - As requisições mínimas podem ser instaladas com o comando: `pip3 install -r requirements.txt`
 - O API roda localmente na máquina no seguinte host: `http://localhost:8000/`
 - Para alimentar o banco de dados rodar os seguintes comandos:
-  `python manage.py loaddata teammember.json`
-  `python manage.py loaddata service.json`
-  `python manage.py loaddata post.json`
+  ```python manage.py loaddata teammember.json```
+  ```python manage.py loaddata service.json```
+  ```python manage.py loaddata post.json```
 - Autenticação: Esta versão da aplicação só exige autenticação para a página do administrador `http://localhost:8000/admin/` e a sua criação pode ser feita utilizando o seguinte comando: `python3 manage.py createsuperuser`
 
 ### Endpoints 
