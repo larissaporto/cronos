@@ -1,0 +1,26 @@
+[
+  {
+    "model": "teammembers.teammember",
+    "pk": 1,
+    "fields": {
+      "name": "John Wick",
+      "job_title": "5"
+    }
+  },
+  {
+    "model": "teammembers.teammember",
+    "pk": 2,
+    "fields": {
+      "name": "Steve Rogers",
+      "job_title": "4"
+    }
+  },
+  {
+    "model": "teammembers.teammember",
+    "pk": 3,
+    "fields": {
+      "name": "Nick Fury",
+      "job_title": "1"
+    }
+  }
+]

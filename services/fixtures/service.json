@@ -1,0 +1,26 @@
+[
+  {
+    "model": "services.service",
+    "pk": 1,
+    "fields": {
+      "name": "Backup",
+      "created": "2011-07-13 06:00:00.000000-08:00"
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 2,
+    "fields": {
+      "name": "Database",
+      "created": "2010-07-12 06:00:00.000000-08:00"
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 3,
+    "fields": {
+      "name": "Backend",
+      "created": "2011-07-10 06:00:00.000000-08:00"
+    }
+  }
+]

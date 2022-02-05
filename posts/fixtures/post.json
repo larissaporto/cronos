@@ -1,0 +1,29 @@
+[
+  {
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+      "title": "Charles Chaplin",
+      "post": "A persistência é o caminho do êxito.",
+      "created": "2021-07-13 07:00:00.000000-08:00"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 2,
+    "fields": {
+      "title": "Desconhecido",
+      "post": "No meio da dificuldade encontra-se a oportunidade.",
+      "created": "2022-01-12 06:00:00.000000-08:00"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 3,
+    "fields": {
+      "title": "Nemo Nox",
+      "post": "Pedras no caminho? Eu guardo todas. Um dia vou construir um castelo.",
+      "created": "2021-07-10 12:00:00.000000-08:00"
+    }
+  }
+]
